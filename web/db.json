@@ -1,0 +1,2819 @@
+{
+	"categories": [
+		{
+			"id": "necklaces-pendants",
+			"name": "Necklaces & Pendants",
+			"url": "https://www.tiffany.com/jewelry/necklaces-pendants/",
+			"image_url": "https://media.tiffany.com/is/image/tco/2026_HOLIDAY_QL_FF_STILL_1x1_1"
+		},
+		{
+			"id": "bracelets",
+			"name": "Bracelets",
+			"url": "https://www.tiffany.com/jewelry/bracelets/",
+			"image_url": "https://media.tiffany.com/is/image/tco/2026_HOLIDAY_QL_FF_STILL_1x1_3"
+		},
+		{
+			"id": "earrings",
+			"name": "Earrings",
+			"url": "https://www.tiffany.com/jewelry/earrings/",
+			"image_url": "https://media.tiffany.com/is/image/tco/2026_HOLIDAY_QL_FF_STILL_1x1_7_ALT"
+		},
+		{
+			"id": "rings",
+			"name": "Rings",
+			"url": "https://www.tiffany.com/jewelry/rings/",
+			"image_url": "https://media.tiffany.com/is/image/tco/2026_HOLIDAY_QL_MLF_QL_RG_STILL_1x1_3"
+		},
+		{
+			"id": "personalized",
+			"name": "Personalize",
+			"url": "https://www.tiffany.com/jewelry/personalized/",
+			"image_url": null
+		},
+		{
+			"id": "brooches",
+			"name": "Brooches",
+			"url": "https://www.tiffany.com/jewelry/brooches/",
+			"image_url": null
+		}
+	],
+	"jewelries": [
+		{
+			"id": "1361381775",
+			"product_id": "1361381775",
+			"sku": "73584531",
+			"asset_sku": "73584531",
+			"title": "Tiffany HardWear Medium Link Earrings in Yellow Gold",
+			"collection": "Tiffany HardWear",
+			"category": "earrings",
+			"price": 3950,
+			"price_formatted": "$3,950",
+			"currency": "USD",
+			"description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. Featuring our signature gauge link, these medium link earrings make a bold statement. These earrings are an excellent gift for someone with distinctive taste.",
+			"badge": "Must-Have",
+			"available_materials": "2 Materials",
+			"material": "18k Yellow Gold",
+			"material_variants": ["18k Rose Gold", "18k Yellow Gold"],
+			"gemstones": null,
+			"dimensions": "Motif size, medium; 1.1\" long",
+			"availability": "InStock",
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/73584531_ER_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_SIO2X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X3?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X4?hei=2000&wid=2000&fmt=webp"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/earrings/tiffany-hardwear-18k-yellow-gold-earrings-1361381775.html"
+		},
+		{
+			"id": "1364371976",
+			"product_id": "1364371976",
+			"sku": "60011679",
+			"asset_sku": "60011679",
+			"title": "Tiffany T Smile Pendant in Yellow Gold, Small",
+			"collection": "Tiffany T",
+			"category": "necklaces-pendants",
+			"price": 1400,
+			"price_formatted": "$1,400",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60011679_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60011679_PDT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/tiffany-t-18k-yellow-gold-necklaces-pendants-1364371976.html"
+		},
+		{
+			"id": "1882122011",
+			"product_id": "1882122011",
+			"sku": "11715966",
+			"asset_sku": "60099365",
+			"title": "Sixteen Stone by Tiffany Ring in Platinum and Yellow Gold with Diamonds",
+			"collection": "Sixteen Stone by Tiffany",
+			"category": "rings",
+			"price": 18000,
+			"price_formatted": "$18,000",
+			"currency": "USD",
+			"description": "Sixteen Stone by Tiffany is an expression of love’s nurturing forces. Conceived by legendary designer Jean Schlumberger in 1959, the collection’s cross-stitch motif was inspired by his family’s roots in textiles. Round brilliant diamonds alternate with golden Xs, creating this dazzling design. Defined by intricate detail, this ring is a classic gift that honors enduring style.",
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": "Platinum and 18k Yellow Gold",
+			"material_variants": ["Platinum", "Platinum and 18k Yellow Gold"],
+			"gemstones": "Round brilliant diamonds (Carat total weight 1.14)",
+			"dimensions": null,
+			"size_selected": "6",
+			"availability": "InStock",
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60099365_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_SIO2X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X3?hei=2000&wid=2000&fmt=webp"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/schlumberger-16-stone-platinum-and-18k-yellow-gold-diamond-rings-1882122011.html"
+		},
+		{
+			"id": "1364175631",
+			"product_id": "1364175631",
+			"sku": "68887216",
+			"asset_sku": "68887216",
+			"title": "Tiffany Knot Pendant in Yellow Gold with Diamonds",
+			"collection": "Tiffany Knot",
+			"category": "necklaces-pendants",
+			"price": 6400,
+			"price_formatted": "$6,400",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/68887216_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/tiffany-knot-18k-yellow-gold-diamond-necklaces-pendants-1364175631.html"
+		},
+		{
+			"id": "1366369752",
+			"product_id": "1366369752",
+			"sku": "60010764",
+			"asset_sku": "60010764",
+			"title": "Tiffany T Narrow Wire Bracelet in Yellow Gold",
+			"collection": "Tiffany T",
+			"category": "bracelets",
+			"price": 2500,
+			"price_formatted": "$2,500",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60010764_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60010764_BLT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-t-18k-yellow-gold-bracelets-1366369752.html"
+		},
+		{
+			"id": "1884145662",
+			"product_id": "1884145662",
+			"sku": "60022674",
+			"asset_sku": "60022674",
+			"title": "Sixteen Stone by Tiffany Pendant in Yellow Gold and Platinum with Diamonds",
+			"collection": "Sixteen Stone by Tiffany",
+			"category": "necklaces-pendants",
+			"price": 4250,
+			"price_formatted": "$4,250",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/schlumberger-lynn-18k-yellow-gold-and-platinum-diamond-necklaces-pendants-1884145662.html"
+		},
+		{
+			"id": "1362367951",
+			"product_id": "1362367951",
+			"sku": "67796934",
+			"asset_sku": "67796934",
+			"title": "Tiffany T T1 Ring in Yellow Gold",
+			"collection": "Tiffany T",
+			"category": "rings",
+			"price": 1675,
+			"price_formatted": "$1,675",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/67796934_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-t-18k-yellow-gold-rings-1362367951.html"
+		},
+		{
+			"id": "1426342813",
+			"product_id": "1426342813",
+			"sku": "60764034",
+			"asset_sku": "60764034",
+			"title": "Elsa Peretti® Pearls by the Yard™ Bracelet",
+			"collection": "Elsa Peretti®",
+			"category": "bracelets",
+			"price": 950,
+			"price_formatted": "$950",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60764034_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60764034_BLT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/ep-pearl-by-the-yard-18k-yellow-gold-freshwater-pearl-bracelets-1426342813.html"
+		},
+		{
+			"id": "1414122375",
+			"product_id": "1414122375",
+			"sku": "60957398",
+			"asset_sku": "60957398",
+			"title": "Elsa Peretti® Open Heart Pendant in Yellow Gold, 7 mm",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 950,
+			"price_formatted": "$950",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60957398_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-open-heart-18k-yellow-gold-necklaces-pendants-1414122375.html"
+		},
+		{
+			"id": "1155147822",
+			"product_id": "1155147822",
+			"sku": "60128534",
+			"asset_sku": "60128534",
+			"title": "Return to Tiffany® Heart Tag Toggle Necklace in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 1300,
+			"price_formatted": "$1,300",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60128534_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1155147822.html"
+		},
+		{
+			"id": "1154167408",
+			"product_id": "1154167408",
+			"sku": "60014183",
+			"asset_sku": "60014183",
+			"title": "Return to Tiffany® Heart Tag Pendant in Silver, Medium",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60014183_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154167408.html"
+		},
+		{
+			"id": "1154458879",
+			"product_id": "1154458879",
+			"sku": "60014069",
+			"asset_sku": "60014069",
+			"title": "Return to Tiffany® Tiffany Blue® Double Heart Tag Pendant in Silver, Mini",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 325,
+			"price_formatted": "$325",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60014069_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154458879.html"
+		},
+		{
+			"id": "1156147821",
+			"product_id": "1156147821",
+			"sku": "60128531",
+			"asset_sku": "60128531",
+			"title": "Return to Tiffany® Heart Tag Toggle Bracelet in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 900,
+			"price_formatted": "$900",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60128531_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-bracelets-1156147821.html"
+		},
+		{
+			"id": "1156457196",
+			"product_id": "1156457196",
+			"sku": "60136706",
+			"asset_sku": "60136706",
+			"title": "Return to Tiffany® Tiffany Blue® Heart Tag Bead Bracelet in Silver, 4 mm",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60136706_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-bracelets-1156457196.html"
+		},
+		{
+			"id": "1156166024",
+			"product_id": "1156166024",
+			"sku": "60143730",
+			"asset_sku": "60143730",
+			"title": "Tiffany Infinity Bracelet",
+			"collection": "Tiffany Infinity",
+			"category": "bracelets",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60143730_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-infinity-sterling-silver-bracelets-1156166024.html"
+		},
+		{
+			"id": "1154463802",
+			"product_id": "1154463802",
+			"sku": "60014128",
+			"asset_sku": "60014128",
+			"title": "Return to Tiffany® Pink Double Heart Tag Pendant in Silver, Mini",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 325,
+			"price_formatted": "$325",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60014128_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154463802.html"
+		},
+		{
+			"id": "1151147967",
+			"product_id": "1151147967",
+			"sku": "60013271",
+			"asset_sku": "60013271",
+			"title": "Return to Tiffany® Heart Tag Stud Earrings in Silver, Mini",
+			"collection": "Return to Tiffany®",
+			"category": "earrings",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60013271_ER_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/earrings/return-to-tiffany-sterling-silver-earrings-1151147967.html"
+		},
+		{
+			"id": "1155140989",
+			"product_id": "1155140989",
+			"sku": "60123642",
+			"asset_sku": "60123642",
+			"title": "Return to Tiffany® Heart Tag Chain Link Necklace in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 1150,
+			"price_formatted": "$1,150",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60123642_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1155140989.html"
+		},
+		{
+			"id": "1154188192",
+			"product_id": "1154188192",
+			"sku": "77691065",
+			"asset_sku": "77691065",
+			"title": "Return to Tiffany® Mini Heart Tag Pendant in Sterling Silver",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 250,
+			"price_formatted": "$250",
+			"currency": "USD",
+			"description": null,
+			"badge": "New",
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/77691065_PDT_MAIN1X1-1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154188192.html"
+		},
+		{
+			"id": "1364377761",
+			"product_id": "1364377761",
+			"sku": "72975146",
+			"asset_sku": "72975146",
+			"title": "Return to Tiffany® Mini Heart Tag Pendant in Yellow Gold",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 1250,
+			"price_formatted": "$1,250",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/72975146_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-18k-yellow-gold-necklaces-pendants-1364377761.html"
+		},
+		{
+			"id": "1156150245",
+			"product_id": "1156150245",
+			"sku": "60130902",
+			"asset_sku": "60130902",
+			"title": "Return to Tiffany® Heart Tag Bead Bracelet in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60130902_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-bracelets-1156150245.html"
+		},
+		{
+			"id": "1364368411",
+			"product_id": "1364368411",
+			"sku": "67800966",
+			"asset_sku": "67800966",
+			"title": "Return to Tiffany® Mini Double Heart Tag Pendant",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 1950,
+			"price_formatted": "$1,950",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/67800966_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-18k-yellow-gold-necklaces-pendants-1364368411.html"
+		},
+		{
+			"id": "1156418629",
+			"product_id": "1156418629",
+			"sku": "69683878",
+			"asset_sku": "69683878",
+			"title": "Return to Tiffany® Bead Bracelet in Silver, Tiffany Blue® with a Diamond, 4 mm",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 600,
+			"price_formatted": "$600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/69683878_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-round-brilliant-diamonds-bracelets-1156418629.html"
+		},
+		{
+			"id": "1404155301",
+			"product_id": "1404155301",
+			"sku": "60020515",
+			"asset_sku": "60020515",
+			"title": "Elsa Peretti® Small Alphabet Pendant in Sterling Silver",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 600,
+			"price_formatted": "$600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60020515_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-alphabet-sterling-silver-necklaces-pendants-1404155301.html"
+		},
+		{
+			"id": "136216692",
+			"product_id": "136216692",
+			"sku": "69346855",
+			"asset_sku": "69346855",
+			"title": "Tiffany Knot Ring in Yellow Gold with Diamonds",
+			"collection": "Tiffany Knot",
+			"category": "rings",
+			"price": 3500,
+			"price_formatted": "$3,500",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/69346855_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-knot-18k-yellow-gold-diamond-rings-136216692.html"
+		},
+		{
+			"id": "1154419028",
+			"product_id": "1154419028",
+			"sku": "69683983",
+			"asset_sku": "69683983",
+			"title": "Return to Tiffany® Heart Pendant in Silver, Tiffany Blue® with a Diamond, Mini",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 550,
+			"price_formatted": "$550",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/69683983_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-diamond-necklaces-pendants-1154419028.html"
+		},
+		{
+			"id": "1366310223",
+			"product_id": "1366310223",
+			"sku": "60416923",
+			"asset_sku": "60416923",
+			"title": "Tiffany HardWear Micro Link Bracelet in Yellow Gold",
+			"collection": "Tiffany HardWear",
+			"category": "bracelets",
+			"price": 4800,
+			"price_formatted": "$4,800",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60416923_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-hardwear-18k-yellow-gold-bracelets-1366310223.html"
+		},
+		{
+			"id": "1156110226",
+			"product_id": "1156110226",
+			"sku": "60417059",
+			"asset_sku": "60417059",
+			"title": "Tiffany HardWear Micro Link Bracelet in Sterling Silver",
+			"collection": "Tiffany HardWear",
+			"category": "bracelets",
+			"price": 1000,
+			"price_formatted": "$1,000",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60417059_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-hardwear-sterling-silver-bracelets-1156110226.html"
+		},
+		{
+			"id": "1154158407",
+			"product_id": "1154158407",
+			"sku": "60014064",
+			"asset_sku": "60014064",
+			"title": "Return to Tiffany® Heart Tag with Key Pendant in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 450,
+			"price_formatted": "$450",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60014064_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154158407.html"
+		},
+		{
+			"id": "1154141420",
+			"product_id": "1154141420",
+			"sku": "60013756",
+			"asset_sku": "60013756",
+			"title": "Return to Tiffany® Double Heart Tag Pendant in Silver, Mini",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 325,
+			"price_formatted": "$325",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60013756_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154141420.html"
+		},
+		{
+			"id": "1365375981",
+			"product_id": "1365375981",
+			"sku": "60153063",
+			"asset_sku": "60153063",
+			"title": "Tiffany HardWear Graduated Link Necklace in Yellow Gold",
+			"collection": "Tiffany HardWear",
+			"category": "necklaces-pendants",
+			"price": 24900,
+			"price_formatted": "$24,900",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60153063_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/tiffany-hardwear-18k-yellow-gold-necklaces-pendants-1365375981.html"
+		},
+		{
+			"id": "1154321821",
+			"product_id": "1154321821",
+			"sku": "69701000",
+			"asset_sku": "69701000",
+			"title": "Return to Tiffany® Heart Tag Pendant in Sterling Silver with a Diamond, Small",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 600,
+			"price_formatted": "$600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/69701000_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-diamond-necklaces-pendants-1154321821.html"
+		},
+		{
+			"id": "1156172501",
+			"product_id": "1156172501",
+			"sku": "60149782",
+			"asset_sku": "60149782",
+			"title": "Tiffany 1837® Interlocking Circles Chain Bracelet in Silver",
+			"collection": "Tiffany 1837®",
+			"category": "bracelets",
+			"price": 600,
+			"price_formatted": "$600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60149782_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-1837-sterling-silver-bracelets-1156172501.html"
+		},
+		{
+			"id": "1155150246",
+			"product_id": "1155150246",
+			"sku": "60130906",
+			"asset_sku": "60130906",
+			"title": "Return to Tiffany® Bead Necklace",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 800,
+			"price_formatted": "$800",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60130906_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1155150246.html"
+		},
+		{
+			"id": "1364384799",
+			"product_id": "1364384799",
+			"sku": "75060742",
+			"asset_sku": "75060742",
+			"title": "Tiffany HardWear Medium Double Link Pendant in Yellow Gold",
+			"collection": "Tiffany HardWear",
+			"category": "necklaces-pendants",
+			"price": 3000,
+			"price_formatted": "$3,000",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/75060742_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/tiffany-hardwear-18k-yellow-gold-necklaces-pendants-1364384799.html"
+		},
+		{
+			"id": "1414135003",
+			"product_id": "1414135003",
+			"sku": "60018195",
+			"asset_sku": "60018195",
+			"title": "Elsa Peretti® Open Heart Pendant in Yellow Gold",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 3600,
+			"price_formatted": "$3,600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60018195_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-open-heart-18k-yellow-gold-necklaces-pendants-1414135003.html"
+		},
+		{
+			"id": "1364384886",
+			"product_id": "1364384886",
+			"sku": "75123663",
+			"asset_sku": "75123663",
+			"title": "Tiffany Knot Small Pendant in Yellow Gold",
+			"collection": "Tiffany Knot",
+			"category": "necklaces-pendants",
+			"price": 1900,
+			"price_formatted": "$1,900",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/75123663_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/tiffany-knot-18k-yellow-gold-necklaces-pendants-1364384886.html"
+		},
+		{
+			"id": "1156128456",
+			"product_id": "1156128456",
+			"sku": "60107580",
+			"asset_sku": "60107580",
+			"title": "Return to Tiffany® Heart Tag Charm Bracelet in Silver",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 800,
+			"price_formatted": "$800",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60107580_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-bracelets-1156128456.html"
+		},
+		{
+			"id": "1152144421",
+			"product_id": "1152144421",
+			"sku": "60126372",
+			"asset_sku": "60126372",
+			"title": "Tiffany 1837® Ring in Silver, Narrow",
+			"collection": "Tiffany 1837®",
+			"category": "rings",
+			"price": 450,
+			"price_formatted": "$450",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60126372_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-1837-sterling-silver-rings-1152144421.html"
+		},
+		{
+			"id": "1156128537",
+			"product_id": "1156128537",
+			"sku": "60107669",
+			"asset_sku": "60107669",
+			"title": "Venetian Link I.D. Bracelet",
+			"collection": null,
+			"category": "bracelets",
+			"price": 700,
+			"price_formatted": "$700",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60107669_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/sterling-silver-bracelets-1156128537.html"
+		},
+		{
+			"id": "1366375986",
+			"product_id": "1366375986",
+			"sku": "60153078",
+			"asset_sku": "60153078",
+			"title": "Tiffany HardWear Small Link Bracelet in Yellow Gold",
+			"collection": "Tiffany HardWear",
+			"category": "bracelets",
+			"price": 7500,
+			"price_formatted": "$7,500",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60153078_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-hardwear-18k-yellow-gold-bracelets-1366375986.html"
+		},
+		{
+			"id": "1154474510",
+			"product_id": "1154474510",
+			"sku": "60014260",
+			"asset_sku": "60014260",
+			"title": "Return to Tiffany® Tiffany Blue® Double Heart Tag Pendant in Silver, Small",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 650,
+			"price_formatted": "$650",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60014260_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-necklaces-pendants-1154474510.html"
+		},
+		{
+			"id": "1155376420",
+			"product_id": "1155376420",
+			"sku": "70923459",
+			"asset_sku": "70923459",
+			"title": "Return to Tiffany® Heart Tag Necklace in Silver with a Diamond, Medium",
+			"collection": "Return to Tiffany®",
+			"category": "necklaces-pendants",
+			"price": 1650,
+			"price_formatted": "$1,650",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/70923459_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/return-to-tiffany-sterling-silver-round-brilliant-diamonds-necklaces-pendants-1155376420.html"
+		},
+		{
+			"id": "1404139645",
+			"product_id": "1404139645",
+			"sku": "60020300",
+			"asset_sku": "60020300",
+			"title": "Elsa Peretti® Scorpion Pendant",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 2700,
+			"price_formatted": "$2,700",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60020300_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-scorpion-sterling-silver-necklaces-pendants-1404139645.html"
+		},
+		{
+			"id": "1361381308",
+			"product_id": "1361381308",
+			"sku": "73340926",
+			"asset_sku": "73340926",
+			"title": "Return to Tiffany® Full Heart Earrings in Yellow Gold",
+			"collection": "Return to Tiffany®",
+			"category": "earrings",
+			"price": 2375,
+			"price_formatted": "$2,375",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/73340926_ER_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/earrings/return-to-tiffany-18k-yellow-gold-earrings-1361381308.html"
+		},
+		{
+			"id": "1362354792",
+			"product_id": "1362354792",
+			"sku": "70305291",
+			"asset_sku": "70305291",
+			"title": "Tiffany Knot Ring in Yellow Gold",
+			"collection": "Tiffany Knot",
+			"category": "rings",
+			"price": 1500,
+			"price_formatted": "$1,500",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/70305291_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-knot-18k-yellow-gold-rings-1362354792.html"
+		},
+		{
+			"id": "1404181395",
+			"product_id": "1404181395",
+			"sku": "73368804",
+			"asset_sku": "73368804",
+			"title": "Elsa Peretti® Open Heart Pendant in Sterling Silver, 7 mm",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 300,
+			"price_formatted": "$300",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/73368804_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-open-heart-sterling-silver-necklaces-pendants-1404181395.html"
+		},
+		{
+			"id": "1156181179",
+			"product_id": "1156181179",
+			"sku": "73248752",
+			"asset_sku": "73248752",
+			"title": "Tiffany 1837® Small Double Lock Bracelet in Sterling Silver",
+			"collection": "Tiffany 1837®",
+			"category": "bracelets",
+			"price": 550,
+			"price_formatted": "$550",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/73248752_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/sterling-silver-bracelets-1156181179.html"
+		},
+		{
+			"id": "1362375640",
+			"product_id": "1362375640",
+			"sku": "68890381",
+			"asset_sku": "68890381",
+			"title": "Tiffany Knot Double Row Ring in Yellow Gold",
+			"collection": "Tiffany Knot",
+			"category": "rings",
+			"price": 3250,
+			"price_formatted": "$3,250",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/68890381_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-knot-18k-yellow-gold-rings-1362375640.html"
+		},
+		{
+			"id": "1156467427",
+			"product_id": "1156467427",
+			"sku": "60145195",
+			"asset_sku": "60145195",
+			"title": "Return to Tiffany® Pink Heart Tag Bead Bracelet in Silver, 4 mm",
+			"collection": "Return to Tiffany®",
+			"category": "bracelets",
+			"price": 350,
+			"price_formatted": "$350",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60145195_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/return-to-tiffany-sterling-silver-and-enamel-bracelets-1156467427.html"
+		},
+		{
+			"id": "1414152970",
+			"product_id": "1414152970",
+			"sku": "60018414",
+			"asset_sku": "60018414",
+			"title": "Elsa Peretti® Bean® design Pendant in Yellow Gold, 18 mm",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 3300,
+			"price_formatted": "$3,300",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60018414_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-bean-18k-yellow-gold-necklaces-pendants-1414152970.html"
+		},
+		{
+			"id": "1156175989",
+			"product_id": "1156175989",
+			"sku": "60153085",
+			"asset_sku": "60153085",
+			"title": "Tiffany HardWear Small Link Bracelet in Sterling Silver",
+			"collection": "Tiffany HardWear",
+			"category": "bracelets",
+			"price": 1600,
+			"price_formatted": "$1,600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60153085_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/tiffany-hardwear-sterling-silver-bracelets-1156175989.html"
+		},
+		{
+			"id": "1414140292",
+			"product_id": "1414140292",
+			"sku": "60018371",
+			"asset_sku": "60018371",
+			"title": "Elsa Peretti® Scorpion Pendant",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 7600,
+			"price_formatted": "$7,600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60018371_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-scorpion-18k-yellow-gold-necklaces-pendants-1414140292.html"
+		},
+		{
+			"id": "1362369853",
+			"product_id": "1362369853",
+			"sku": "60147340",
+			"asset_sku": "60147340",
+			"title": "Tiffany T Wire Ring in Yellow Gold",
+			"collection": "Tiffany T",
+			"category": "rings",
+			"price": 1450,
+			"price_formatted": "$1,450",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "3 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60147340_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/rings/tiffany-t-18k-yellow-gold-rings-1362369853.html"
+		},
+		{
+			"id": "1415238465",
+			"product_id": "1415238465",
+			"sku": "60120367",
+			"asset_sku": "60120367",
+			"title": "Elsa Peretti® Open Heart Lariat Necklace in Yellow Gold with Pearls, 7.5-8 mm",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 3600,
+			"price_formatted": "$3,600",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60120367_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-open-heart-18k-yellow-gold-freshwater-pearl-necklaces-pendants-1415238465.html"
+		},
+		{
+			"id": "1404171594",
+			"product_id": "1404171594",
+			"sku": "60020735",
+			"asset_sku": "60020735",
+			"title": "Elsa Peretti® Starfish Pendant",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 1200,
+			"price_formatted": "$1,200",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60020735_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-starfish-sterling-silver-necklaces-pendants-1404171594.html"
+		},
+		{
+			"id": "117817401",
+			"product_id": "117817401",
+			"sku": "60150727",
+			"asset_sku": "60150727",
+			"title": "Venetian Link Bracelet in Silver",
+			"collection": null,
+			"category": "bracelets",
+			"price": 650,
+			"price_formatted": "$650",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60150727_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/bracelets/sterling-silver-bracelets-117817401.html"
+		},
+		{
+			"id": "1414135301",
+			"product_id": "1414135301",
+			"sku": "60018223",
+			"asset_sku": "60018223",
+			"title": "Elsa Peretti® Small Alphabet Pendant in Yellow Gold",
+			"collection": "Elsa Peretti®",
+			"category": "necklaces-pendants",
+			"price": 2200,
+			"price_formatted": "$2,200",
+			"currency": "USD",
+			"description": null,
+			"badge": "Must-Have",
+			"available_materials": "2 Materials",
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60018223_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/ep-alphabet-18k-yellow-gold-necklaces-pendants-1414135301.html"
+		},
+		{
+			"id": "1179338824",
+			"product_id": "1179338824",
+			"sku": "60013285",
+			"asset_sku": "60013285",
+			"title": "Chain in Silver, 16\"",
+			"collection": null,
+			"category": "necklaces-pendants",
+			"price": 150,
+			"price_formatted": "$150",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60013285_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/necklaces-pendants/sterling-silver-necklaces-pendants-1179338824.html"
+		},
+		{
+			"id": "1411131211",
+			"product_id": "1411131211",
+			"sku": "60018037",
+			"asset_sku": "60018037",
+			"title": "Elsa Peretti® Teardrop Earrings",
+			"collection": "Elsa Peretti®",
+			"category": "earrings",
+			"price": 4100,
+			"price_formatted": "$4,100",
+			"currency": "USD",
+			"description": null,
+			"badge": null,
+			"available_materials": null,
+			"material": null,
+			"material_variants": null,
+			"gemstones": null,
+			"dimensions": null,
+			"availability": null,
+			"image_urls": [
+				"https://media.tiffany.com/is/image/tco/60018037_ER_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"product_url": "https://www.tiffany.com/jewelry/earrings/ep-teardrop-18k-yellow-gold-earrings-1411131211.html"
+		}
+	],
+	"products": [
+		{
+			"id": "1",
+			"title": "Tiffany HardWear Medium Link Earrings in Yellow Gold",
+			"description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. Featuring our signature gauge link, these medium link earrings make a bold statement. These earrings are an excellent gift for someone with distinctive taste.",
+			"category": "earrings",
+			"price": 3950,
+			"discountPercentage": 0,
+			"rating": 4.5,
+			"stock": 8,
+			"tags": ["earrings", "tiffany hardwear"],
+			"brand": "Tiffany & Co.",
+			"sku": "73584531",
+			"weight": 5,
+			"dimensions": {
+				"width": 1.2,
+				"height": 1.5,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "Low Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-10-01T09:30:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-11-01T14:15:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510001",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=73584531"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/73584531_ER_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_SIO2X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X3?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/73584531_ER_ALT3X4?hei=2000&wid=2000&fmt=webp"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/73584531_ER_MAIN1X1?hei=2000&wid=2000&fmt=webp"
+		},
+		{
+			"id": "2",
+			"title": "Tiffany T Smile Pendant in Yellow Gold, Small",
+			"description": "Tiffany T Smile Pendant in Yellow Gold, Small from the Tiffany T collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 1400,
+			"discountPercentage": 2.5,
+			"rating": 4.6,
+			"stock": 15,
+			"tags": ["necklaces-pendants", "tiffany t"],
+			"brand": "Tiffany & Co.",
+			"sku": "60011679",
+			"weight": 6.5,
+			"dimensions": {
+				"width": 1.6,
+				"height": 2,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-10-02T09:30:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-11-02T14:15:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510002",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60011679"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60011679_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60011679_PDT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60011679_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "3",
+			"title": "Sixteen Stone by Tiffany Ring in Platinum and Yellow Gold with Diamonds",
+			"description": "Sixteen Stone by Tiffany is an expression of love’s nurturing forces. Conceived by legendary designer Jean Schlumberger in 1959, the collection’s cross-stitch motif was inspired by his family’s roots in textiles. Round brilliant diamonds alternate with golden Xs, creating this dazzling design. Defined by intricate detail, this ring is a classic gift that honors enduring style.",
+			"category": "rings",
+			"price": 18000,
+			"discountPercentage": 5,
+			"rating": 4.7,
+			"stock": 22,
+			"tags": ["rings", "sixteen stone by tiffany"],
+			"brand": "Tiffany & Co.",
+			"sku": "11715966",
+			"weight": 8,
+			"dimensions": {
+				"width": 2,
+				"height": 2.5,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-10-03T09:30:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-11-03T14:15:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510003",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=11715966"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60099365_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_SIO2X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_SIO2X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X1?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X2?hei=2000&wid=2000&fmt=webp",
+				"https://media.tiffany.com/is/image/tco/60099365_RG_ALT3X3?hei=2000&wid=2000&fmt=webp"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60099365_RG_MAIN1X1?hei=2000&wid=2000&fmt=webp"
+		},
+		{
+			"id": "4",
+			"title": "Tiffany Knot Pendant in Yellow Gold with Diamonds",
+			"description": "Tiffany Knot Pendant in Yellow Gold with Diamonds from the Tiffany Knot collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 6400,
+			"discountPercentage": 7.5,
+			"rating": 4.8,
+			"stock": 29,
+			"tags": ["necklaces-pendants", "tiffany knot"],
+			"brand": "Tiffany & Co.",
+			"sku": "68887216",
+			"weight": 9.5,
+			"dimensions": {
+				"width": 2.4,
+				"height": 3,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-10-04T09:30:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-11-04T14:15:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510004",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=68887216"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/68887216_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/68887216_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "5",
+			"title": "Tiffany T Narrow Wire Bracelet in Yellow Gold",
+			"description": "Tiffany T Narrow Wire Bracelet in Yellow Gold from the Tiffany T collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "bracelets",
+			"price": 2500,
+			"discountPercentage": 0,
+			"rating": 4.9,
+			"stock": 36,
+			"tags": ["bracelets", "tiffany t"],
+			"brand": "Tiffany & Co.",
+			"sku": "60010764",
+			"weight": 11,
+			"dimensions": {
+				"width": 2.8,
+				"height": 1.5,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-10-05T09:30:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-11-05T14:15:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510005",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60010764"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60010764_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60010764_BLT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60010764_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "6",
+			"title": "Sixteen Stone by Tiffany Pendant in Yellow Gold and Platinum with Diamonds",
+			"description": "Sixteen Stone by Tiffany Pendant in Yellow Gold and Platinum with Diamonds from the Sixteen Stone by Tiffany collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 4250,
+			"discountPercentage": 2.5,
+			"rating": 4.5,
+			"stock": 8,
+			"tags": ["necklaces-pendants", "sixteen stone by tiffany"],
+			"brand": "Tiffany & Co.",
+			"sku": "60022674",
+			"weight": 12.5,
+			"dimensions": {
+				"width": 1.2,
+				"height": 2,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "Low Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-10-06T09:30:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-11-06T14:15:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510006",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60022674"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60022674_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "7",
+			"title": "Tiffany T T1 Ring in Yellow Gold",
+			"description": "Tiffany T T1 Ring in Yellow Gold from the Tiffany T collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "rings",
+			"price": 1675,
+			"discountPercentage": 5,
+			"rating": 4.6,
+			"stock": 15,
+			"tags": ["rings", "tiffany t"],
+			"brand": "Tiffany & Co.",
+			"sku": "67796934",
+			"weight": 14,
+			"dimensions": {
+				"width": 1.6,
+				"height": 2.5,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-10-07T09:30:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-11-07T14:15:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510007",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=67796934"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/67796934_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/67796934_RG_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "8",
+			"title": "Elsa Peretti® Pearls by the Yard™ Bracelet",
+			"description": "Elsa Peretti® Pearls by the Yard™ Bracelet from the Elsa Peretti® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "bracelets",
+			"price": 950,
+			"discountPercentage": 7.5,
+			"rating": 4.7,
+			"stock": 22,
+			"tags": ["bracelets", "elsa peretti®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60764034",
+			"weight": 15.5,
+			"dimensions": {
+				"width": 2,
+				"height": 3,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-10-08T09:30:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-11-08T14:15:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510008",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60764034"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60764034_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6",
+				"https://media.tiffany.com/is/image/tco/60764034_BLT_SIO2X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60764034_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "9",
+			"title": "Elsa Peretti® Open Heart Pendant in Yellow Gold, 7 mm",
+			"description": "Elsa Peretti® Open Heart Pendant in Yellow Gold, 7 mm from the Elsa Peretti® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 950,
+			"discountPercentage": 0,
+			"rating": 4.8,
+			"stock": 29,
+			"tags": ["necklaces-pendants", "elsa peretti®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60957398",
+			"weight": 17,
+			"dimensions": {
+				"width": 2.4,
+				"height": 1.5,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-10-09T09:30:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-11-09T14:15:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510009",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60957398"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60957398_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60957398_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "10",
+			"title": "Return to Tiffany® Heart Tag Toggle Necklace in Silver",
+			"description": "Return to Tiffany® Heart Tag Toggle Necklace in Silver from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 1300,
+			"discountPercentage": 2.5,
+			"rating": 4.9,
+			"stock": 36,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60128534",
+			"weight": 18.5,
+			"dimensions": {
+				"width": 2.8,
+				"height": 2,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-10-10T09:30:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-11-10T14:15:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510010",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60128534"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60128534_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60128534_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "11",
+			"title": "Return to Tiffany® Heart Tag Pendant in Silver, Medium",
+			"description": "Return to Tiffany® Heart Tag Pendant in Silver, Medium from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 350,
+			"discountPercentage": 5,
+			"rating": 4.5,
+			"stock": 8,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60014183",
+			"weight": 20,
+			"dimensions": {
+				"width": 1.2,
+				"height": 2.5,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "Low Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-10-11T09:30:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-11-11T14:15:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510011",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60014183"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60014183_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60014183_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "12",
+			"title": "Return to Tiffany® Tiffany Blue® Double Heart Tag Pendant in Silver, Mini",
+			"description": "Return to Tiffany® Tiffany Blue® Double Heart Tag Pendant in Silver, Mini from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 325,
+			"discountPercentage": 7.5,
+			"rating": 4.6,
+			"stock": 15,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60014069",
+			"weight": 21.5,
+			"dimensions": {
+				"width": 1.6,
+				"height": 3,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-10-12T09:30:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-11-12T14:15:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510012",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60014069"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60014069_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60014069_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "13",
+			"title": "Return to Tiffany® Heart Tag Toggle Bracelet in Silver",
+			"description": "Return to Tiffany® Heart Tag Toggle Bracelet in Silver from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "bracelets",
+			"price": 900,
+			"discountPercentage": 0,
+			"rating": 4.7,
+			"stock": 22,
+			"tags": ["bracelets", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60128531",
+			"weight": 5,
+			"dimensions": {
+				"width": 2,
+				"height": 1.5,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-10-13T09:30:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-11-13T14:15:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510013",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60128531"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60128531_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60128531_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "14",
+			"title": "Return to Tiffany® Tiffany Blue® Heart Tag Bead Bracelet in Silver, 4 mm",
+			"description": "Return to Tiffany® Tiffany Blue® Heart Tag Bead Bracelet in Silver, 4 mm from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "bracelets",
+			"price": 350,
+			"discountPercentage": 2.5,
+			"rating": 4.8,
+			"stock": 29,
+			"tags": ["bracelets", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60136706",
+			"weight": 6.5,
+			"dimensions": {
+				"width": 2.4,
+				"height": 2,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-10-14T09:30:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-11-14T14:15:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510014",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60136706"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60136706_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60136706_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "15",
+			"title": "Tiffany Infinity Bracelet",
+			"description": "Tiffany Infinity Bracelet from the Tiffany Infinity collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "bracelets",
+			"price": 350,
+			"discountPercentage": 5,
+			"rating": 4.9,
+			"stock": 36,
+			"tags": ["bracelets", "tiffany infinity"],
+			"brand": "Tiffany & Co.",
+			"sku": "60143730",
+			"weight": 8,
+			"dimensions": {
+				"width": 2.8,
+				"height": 2.5,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-10-15T09:30:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-11-15T14:15:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510015",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60143730"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60143730_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60143730_BLT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "16",
+			"title": "Return to Tiffany® Pink Double Heart Tag Pendant in Silver, Mini",
+			"description": "Return to Tiffany® Pink Double Heart Tag Pendant in Silver, Mini from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 325,
+			"discountPercentage": 7.5,
+			"rating": 4.5,
+			"stock": 8,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60014128",
+			"weight": 9.5,
+			"dimensions": {
+				"width": 1.2,
+				"height": 3,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "Low Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-10-16T09:30:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-11-01T14:15:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510016",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60014128"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60014128_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60014128_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "17",
+			"title": "Return to Tiffany® Heart Tag Stud Earrings in Silver, Mini",
+			"description": "Return to Tiffany® Heart Tag Stud Earrings in Silver, Mini from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "earrings",
+			"price": 350,
+			"discountPercentage": 0,
+			"rating": 4.6,
+			"stock": 15,
+			"tags": ["earrings", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60013271",
+			"weight": 11,
+			"dimensions": {
+				"width": 1.6,
+				"height": 1.5,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Looks even better in person, arrived in signature packaging.",
+					"date": "2026-10-17T09:30:00.000Z",
+					"reviewerName": "Ava Lin",
+					"reviewerEmail": "ava.lin@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-11-02T14:15:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510017",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60013271"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60013271_ER_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60013271_ER_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "18",
+			"title": "Return to Tiffany® Heart Tag Chain Link Necklace in Silver",
+			"description": "Return to Tiffany® Heart Tag Chain Link Necklace in Silver from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 1150,
+			"discountPercentage": 2.5,
+			"rating": 4.7,
+			"stock": 22,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "60123642",
+			"weight": 12.5,
+			"dimensions": {
+				"width": 2,
+				"height": 2,
+				"depth": 0.8
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Very comfortable for daily wear and feels substantial.",
+					"date": "2026-10-18T09:30:00.000Z",
+					"reviewerName": "Noah Brooks",
+					"reviewerEmail": "noah.brooks@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-11-03T14:15:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510018",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=60123642"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/60123642_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/60123642_NL_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "19",
+			"title": "Return to Tiffany® Mini Heart Tag Pendant in Sterling Silver",
+			"description": "Return to Tiffany® Mini Heart Tag Pendant in Sterling Silver from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 250,
+			"discountPercentage": 5,
+			"rating": 4.8,
+			"stock": 29,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "77691065",
+			"weight": 14,
+			"dimensions": {
+				"width": 2.4,
+				"height": 2.5,
+				"depth": 0.4
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Timeless design, made an unforgettable anniversary gift.",
+					"date": "2026-10-19T09:30:00.000Z",
+					"reviewerName": "Liam Carter",
+					"reviewerEmail": "liam.carter@example.com"
+				},
+				{
+					"rating": 4,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-11-04T14:15:00.000Z",
+					"reviewerName": "Chloe Bennett",
+					"reviewerEmail": "chloe.bennett@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510019",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=77691065"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/77691065_PDT_MAIN1X1-1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/77691065_PDT_MAIN1X1-1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		},
+		{
+			"id": "20",
+			"title": "Return to Tiffany® Mini Heart Tag Pendant in Yellow Gold",
+			"description": "Return to Tiffany® Mini Heart Tag Pendant in Yellow Gold from the Return to Tiffany® collection. Crafted with precision for enduring brilliance and everyday sophistication.",
+			"category": "necklaces-pendants",
+			"price": 1250,
+			"discountPercentage": 7.5,
+			"rating": 4.9,
+			"stock": 36,
+			"tags": ["necklaces-pendants", "return to tiffany®"],
+			"brand": "Tiffany & Co.",
+			"sku": "72975146",
+			"weight": 15.5,
+			"dimensions": {
+				"width": 2.8,
+				"height": 3,
+				"depth": 0.6
+			},
+			"warrantyInformation": "2 year international jewelry warranty",
+			"shippingInformation": "Ships in 1-2 business days",
+			"availabilityStatus": "In Stock",
+			"reviews": [
+				{
+					"rating": 5,
+					"comment": "Great quality, fast delivery and well protected.",
+					"date": "2026-10-20T09:30:00.000Z",
+					"reviewerName": "Sophia Nguyen",
+					"reviewerEmail": "sophia.nguyen@example.com"
+				},
+				{
+					"rating": 5,
+					"comment": "Exquisite craftsmanship and brilliant finish.",
+					"date": "2026-11-05T14:15:00.000Z",
+					"reviewerName": "Ethan Morales",
+					"reviewerEmail": "ethan.morales@example.com"
+				}
+			],
+			"returnPolicy": "30 days return policy",
+			"minimumOrderQuantity": 1,
+			"meta": {
+				"createdAt": "2026-10-01T08:00:00.000Z",
+				"updatedAt": "2026-11-15T10:00:00.000Z",
+				"barcode": "8901234510020",
+				"qrCode": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=72975146"
+			},
+			"images": [
+				"https://media.tiffany.com/is/image/tco/72975146_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+			],
+			"thumbnail": "https://media.tiffany.com/is/image/tco/72975146_PDT_MAIN1X1?hei=1204&wid=1204&fmt=webp&op_usm=1%2C2%2C6"
+		}
+	],
+	"posts": [
+		{
+			"id": "1",
+			"title": "How to Choose the Perfect Engagement Ring",
+			"body": "Selecting an engagement ring starts with understanding the 4Cs: cut, color, clarity, and carat weight. Beyond grading reports, pay close attention to metal durability and daily lifestyle so the piece lasts a lifetime.",
+			"tags": ["diamonds", "rings", "guide"],
+			"reactions": {
+				"likes": 192,
+				"dislikes": 5
+			},
+			"views": 1305,
+			"userId": 12
+		},
+		{
+			"id": "2",
+			"title": "18k Yellow Gold vs Platinum: Which Metal Suits You Best?",
+			"body": "Yellow gold offers warm, timeless elegance and pairs beautifully with vintage designs, while platinum is naturally white, hypoallergenic, and denser for securing precious gemstones.",
+			"tags": ["gold", "platinum", "materials"],
+			"reactions": {
+				"likes": 148,
+				"dislikes": 9
+			},
+			"views": 980,
+			"userId": 7
+		},
+		{
+			"id": "3",
+			"title": "Caring for Fine Jewelry at Home Without Damage",
+			"body": "Warm water, mild dish soap, and a soft-bristle brush can restore brilliance to most gold and diamond pieces. Always avoid harsh chlorine bleach and ultrasonic cleaners for delicate pearls and emeralds.",
+			"tags": ["care", "tips", "pearls"],
+			"reactions": {
+				"likes": 215,
+				"dislikes": 3
+			},
+			"views": 1640,
+			"userId": 19
+		},
+		{
+			"id": "4",
+			"title": "The Story Behind the Iconic Cross-Stitch Ring Design",
+			"body": "Inspired by textile heritage in 1959, alternating round brilliant diamonds with sculpted golden Xs created one of the most recognizable silhouettes in modern fine jewelry.",
+			"tags": ["history", "design", "rings"],
+			"reactions": {
+				"likes": 174,
+				"dislikes": 11
+			},
+			"views": 1120,
+			"userId": 4
+		},
+		{
+			"id": "5",
+			"title": "Layering Necklaces Like a Stylist: Lengths and Textures",
+			"body": "Start with a 16-inch delicate chain, add an 18-inch pendant as the focal point, and finish with a 20-inch lariat. Mixing link weights prevents tangling and creates effortless depth.",
+			"tags": ["styling", "necklaces", "fashion"],
+			"reactions": {
+				"likes": 132,
+				"dislikes": 6
+			},
+			"views": 845,
+			"userId": 15
+		},
+		{
+			"id": "6",
+			"title": "Understanding Sterling Silver 925 and Tarnish Prevention",
+			"body": "Sterling silver contains 92.5% pure silver alloyed with copper for strength. Storing silver pieces in anti-tarnish pouches away from humidity keeps their mirror polish bright.",
+			"tags": ["silver", "care", "materials"],
+			"reactions": {
+				"likes": 98,
+				"dislikes": 4
+			},
+			"views": 730,
+			"userId": 8
+		},
+		{
+			"id": "7",
+			"title": "Freshwater Pearls vs Akoya Pearls Explained",
+			"body": "While Akoya pearls are prized for their near-perfect roundness and high luster, freshwater pearls offer organic shapes, thicker nacre, and versatile contemporary appeal.",
+			"tags": ["pearls", "gemstones", "guide"],
+			"reactions": {
+				"likes": 165,
+				"dislikes": 7
+			},
+			"views": 1090,
+			"userId": 21
+		},
+		{
+			"id": "8",
+			"title": "How to Measure Your Ring Size Accurately at Home",
+			"body": "Measure your finger at the end of the day when temperatures are moderate. Wrap a non-stretch strip of paper snugly around the knuckle and compare the millimeter length to a standard chart.",
+			"tags": ["rings", "sizing", "guide"],
+			"reactions": {
+				"likes": 240,
+				"dislikes": 8
+			},
+			"views": 2150,
+			"userId": 3
+		},
+		{
+			"id": "9",
+			"title": "Bold Link Bracelets: From 1960s Archives to Everyday Wear",
+			"body": "Industrial gauge links first appeared in archival bracelets over six decades ago. Today they transition seamlessly from tailored blazers to relaxed weekend denim.",
+			"tags": ["bracelets", "history", "trends"],
+			"reactions": {
+				"likes": 118,
+				"dislikes": 5
+			},
+			"views": 690,
+			"userId": 11
+		},
+		{
+			"id": "10",
+			"title": "Why Cut Quality Matters Most in a Diamond",
+			"body": "Even a colorless, flawless stone will appear dull if cut too deep or too shallow. An excellent cut maximizes internal reflection and produces signature fire and scintillation.",
+			"tags": ["diamonds", "gemstones", "education"],
+			"reactions": {
+				"likes": 289,
+				"dislikes": 12
+			},
+			"views": 2410,
+			"userId": 6
+		},
+		{
+			"id": "11",
+			"title": "Mixing Metals: Breaking the Old Rules of Jewelry Styling",
+			"body": "Pairing rose gold, yellow gold, and sterling silver adds dimension to any stack. Use a two-tone bridge piece to tie contrasting metals together effortlessly.",
+			"tags": ["styling", "gold", "silver"],
+			"reactions": {
+				"likes": 154,
+				"dislikes": 14
+			},
+			"views": 1015,
+			"userId": 17
+		},
+		{
+			"id": "12",
+			"title": "Minimalist Stud Earrings for Everyday Elegance",
+			"body": "Compact stud earrings frame the face without weighing down the earlobe. Classic heart tags, bezel-set diamonds, and sculpted gold drops remain top daily staples.",
+			"tags": ["earrings", "minimalist", "fashion"],
+			"reactions": {
+				"likes": 87,
+				"dislikes": 2
+			},
+			"views": 560,
+			"userId": 9
+		},
+		{
+			"id": "13",
+			"title": "Responsible Sourcing in Modern Fine Jewelry",
+			"body": "Traceable supply chains ensure precious metals and diamonds are mined with strict environmental and labor standards. Ask for origin documentation when investing in heirloom pieces.",
+			"tags": ["sustainability", "diamonds", "ethics"],
+			"reactions": {
+				"likes": 203,
+				"dislikes": 6
+			},
+			"views": 1490,
+			"userId": 2
+		},
+		{
+			"id": "14",
+			"title": "Gift Guide: Meaningful Milestone Jewelry Ideas",
+			"body": "From graduations to anniversaries, engraved pendants, charm bracelets, and diamond studs mark life chapters with pieces meant to be passed down.",
+			"tags": ["gifts", "guide", "collections"],
+			"reactions": {
+				"likes": 176,
+				"dislikes": 4
+			},
+			"views": 1230,
+			"userId": 14
+		},
+		{
+			"id": "15",
+			"title": "Sculptural Organic Forms in 20th-Century Jewelry",
+			"body": "Fluid silhouettes inspired by beans, open hearts, and teardrops revolutionized luxury jewelry by celebrating tactile ergonomics over rigid symmetry.",
+			"tags": ["history", "design", "art"],
+			"reactions": {
+				"likes": 141,
+				"dislikes": 3
+			},
+			"views": 875,
+			"userId": 10
+		},
+		{
+			"id": "16",
+			"title": "How to Build a Capsule Jewelry Wardrobe With 5 Pieces",
+			"body": "Start with diamond studs, a medium link bracelet, a delicate pendant, a signature ring, and a sculptural cuff. Together they cover every occasion from boardroom to gala.",
+			"tags": ["styling", "capsule", "guide"],
+			"reactions": {
+				"likes": 229,
+				"dislikes": 7
+			},
+			"views": 1780,
+			"userId": 18
+		},
+		{
+			"id": "17",
+			"title": "Traveling Safely With Precious Gemstones",
+			"body": "Always pack fine jewelry in your carry-on using a structured roll with individual compartments. Never place rings or chains loose inside checked luggage.",
+			"tags": ["travel", "care", "tips"],
+			"reactions": {
+				"likes": 112,
+				"dislikes": 1
+			},
+			"views": 740,
+			"userId": 5
+		},
+		{
+			"id": "18",
+			"title": "What Does Carat Total Weight (CTW) Really Mean?",
+			"body": "Carat total weight represents the combined weight of all diamonds set into a single piece, such as pavé bands or multi-stone pendants, rather than one center stone.",
+			"tags": ["diamonds", "education", "guide"],
+			"reactions": {
+				"likes": 195,
+				"dislikes": 5
+			},
+			"views": 1520,
+			"userId": 13
+		},
+		{
+			"id": "19",
+			"title": "Stacking Wire Bracelets Without Scratching the Finish",
+			"body": "Balance rigid wire cuffs with softer chain bracelets and check clasp positions so gemstones do not rub against polished gold surfaces.",
+			"tags": ["bracelets", "styling", "care"],
+			"reactions": {
+				"likes": 104,
+				"dislikes": 3
+			},
+			"views": 615,
+			"userId": 20
+		},
+		{
+			"id": "20",
+			"title": "The Symbolic Meaning of Knot Motifs in Jewelry",
+			"body": "Across centuries and cultures, intertwined knots symbolize unbreakable bonds, continuity, and harmony—making them timeless choices for commitment gifts.",
+			"tags": ["symbolism", "design", "gifts"],
+			"reactions": {
+				"likes": 162,
+				"dislikes": 4
+			},
+			"views": 990,
+			"userId": 1
+		},
+		{
+			"id": "21",
+			"title": "Engraving Ideas for Heart Tag Pendants and ID Bracelets",
+			"body": "Initials, significant dates, coordinates, or short two-word mottos personalize silver and gold tags without crowding the surface.",
+			"tags": ["personalize", "gifts", "tips"],
+			"reactions": {
+				"likes": 138,
+				"dislikes": 2
+			},
+			"views": 820,
+			"userId": 16
+		},
+		{
+			"id": "22",
+			"title": "How Enamel Adds Color to Classic Silver Jewelry",
+			"body": "Signature enamel finishes bring vibrant pops of robin-egg blue or soft pink to sterling silver charms while requiring gentle wiping after wear.",
+			"tags": ["silver", "materials", "design"],
+			"reactions": {
+				"likes": 91,
+				"dislikes": 6
+			},
+			"views": 540,
+			"userId": 22
+		},
+		{
+			"id": "23",
+			"title": "Understanding Hallmarks and Purity Stamps on Gold",
+			"body": "Marks such as 750 or 18K indicate 75% pure gold, while PT950 signifies 95% pure platinum. Learning to read hallmarks verifies authenticity instantly.",
+			"tags": ["gold", "platinum", "education"],
+			"reactions": {
+				"likes": 211,
+				"dislikes": 5
+			},
+			"views": 1610,
+			"userId": 12
+		},
+		{
+			"id": "24",
+			"title": "Choosing Earrings to Complement Your Face Shape",
+			"body": "Angular link drops soften round faces, while curved hoops and teardrop silhouettes bring balance to square jawlines.",
+			"tags": ["earrings", "styling", "fashion"],
+			"reactions": {
+				"likes": 147,
+				"dislikes": 8
+			},
+			"views": 930,
+			"userId": 7
+		},
+		{
+			"id": "25",
+			"title": "When Should You Get Your Prongs Professionally Inspected?",
+			"body": "Jewelers recommend inspecting diamond prongs every 6 to 12 months. Early tightening prevents stone loss and keeps heirloom rings secure.",
+			"tags": ["care", "rings", "diamonds"],
+			"reactions": {
+				"likes": 183,
+				"dislikes": 2
+			},
+			"views": 1340,
+			"userId": 4
+		}
+	],
+	"meta": {
+		"source_url": "https://www.tiffany.com/jewelry/",
+		"total_products_reported": 1649,
+		"available_filters": ["Material", "Gemstones", "Designer & Collection", "Price"],
+		"available_sort_options": ["Price Ascending", "Price Descending"]
+	}
+}

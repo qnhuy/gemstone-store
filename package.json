@@ -1,0 +1,25 @@
+{
+	"name": "gemstone-store",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"format": "prettier --write .",
+		"format:check": "prettier --check ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devEngines": {
+		"packageManager": {
+			"name": "pnpm",
+			"version": "12.23.0",
+			"onFail": "download"
+		}
+	},
+	"packageManager": "pnpm@12.23.0",
+	"type": "module",
+	"devDependencies": {
+		"prettier": "^3.10.1"
+	}
+}
